@@ -11,10 +11,10 @@ function Content() {
         <p className="content-footer-title">Total this month</p>
         <div className="content-footer-flex">
           <p className="content-footer-expenses">$478.33</p>
-          <p className="content-footer-stats">
+          <div className="content-footer-stats">
             <p className="content-footer-stats-1">+2.4%</p>
             <p className="content-footer-stats-2">from last month</p>
-          </p>
+          </div>
         </div>
       </div>
     </section>
